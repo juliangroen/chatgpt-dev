@@ -1,4 +1,4 @@
-# ChatGPT Demo - Example API with Auth Sequence Diagram
+# ChatGPT Demo - Example API with Auth - Sequence Diagram
 
 ## ChatGPT Interaction
 
