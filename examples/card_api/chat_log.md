@@ -43,7 +43,7 @@ async def card():
 > Sure, you can update the API to include an authentication token header by using FastAPI's Depends functionality. Here's an example:
 
 ```python
-from fastapi import FastAPI, Header, HTTPException
+from fastapi import FastAPI, Header, HTTPException, Depends
 import random
 
 app = FastAPI()
